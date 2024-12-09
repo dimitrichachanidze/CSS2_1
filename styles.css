@@ -1,0 +1,153 @@
+#head_div {
+    max-width: 1140px;
+    max-height: 72px;
+}
+
+#Logo {
+    margin: 0 auto;
+    vertical-align: middle;
+    margin-left: 80px;
+    max-width: 146px;
+    display: inline-block;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+#p_erti {
+    display: inline-block;
+    margin: 0 auto;
+    vertical-align: middle;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 18px;
+    margin-left: 179px;
+    margin-right: 20px;
+}
+
+#p_meore {
+    display: inline-block;
+    margin: 0 auto;
+    vertical-align: middle;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+#p_mesame {
+    display: inline-block;
+    margin: 0 auto;
+    vertical-align: middle;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+#p_meotxe {
+    display: inline-block;
+    margin: 0 auto;
+    vertical-align: middle;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 18px;
+    margin-right: 179px;
+}
+
+#ContactUS {
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background: #E9D7FE;
+    display: inline-block;
+}
+
+#p_mexute {
+    margin: 0 auto;
+    vertical-align: middle;
+    color: #AC00FF;
+    font-size: 14px;
+    padding: 8px 16px 8px 16px;
+}
+
+#main_div {
+    max-width: 841px;
+    width: 100%;
+    margin-top: 64px;
+    margin-left: 214px;
+}
+
+#div_head {
+    color: #323232;
+    font-size: 64px;
+    margin: 0 auto;
+    text-align: left;
+    max-height: 74px;
+    max-width: 720px;
+    width: 100%;
+    margin-right: 121px;
+    display: inline-block;
+}
+
+#main_text {
+    font-size: 24px;
+    text-align: left;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+#joinDiv {
+    border-radius: 8px;
+    background: #5C3BAE;
+    max-width: 204px;
+    width: 100%;
+    display: inline-block;
+}
+
+#join {
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 16px 24px;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 48px;
+}
+
+#damxmare_div {
+    margin-top: 24px;
+}
+
+#div_of_video {
+    display: inline-block
+}
+
+#video {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 24px;
+    vertical-align: middle;
+}
+
+#main_text_video {
+    color: #4D3491;
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#Cards {
+    margin: 0 auto;
+    padding-left: 857px;
+    max-width: 1311px;
+    width: 100%;
+    max-height: 761px;
+    text-align: right;
+    
+}
+
+#image_div {}
+    
+
